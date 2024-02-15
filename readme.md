@@ -4,9 +4,9 @@
 
 # todos
 ## 创建型 - Create Class
-> 单例模式 HungryHanSingleton Pattern
+> 单例模式 Singleton Pattern
 - [ ] Typescript
-- [ ] Java
+- [x] Java
 
 > 简单工厂模式 Simple Factory Pattern
 - [ ] Typescript
