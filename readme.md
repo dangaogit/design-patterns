@@ -17,15 +17,29 @@
 - [ ] Java
 
 > 抽象工厂模式 Abstract Factory Pattern
+<<<<<<< Updated upstream
 - [ ] Typescript
+=======
+  - 抽象工厂类
+  - 具体工厂类：实现抽象工厂的操作，制作出具体的产品
+  - 抽象产品类：声明产品的属性和方法
+  - 具体产品类：抽象产品的实现类，定义具体工厂所创建的具体产品对象
+- [x] Typescript
+>>>>>>> Stashed changes
 - [ ] Java
 
 > 建造者模式 Builder Pattern
-- [ ] Typescript
-- [ ] Java
+- [x] Typescript
+- [x] Java
 
 > 原型模式 Prototype Pattern
-- [ ] Typescript
+  - 实现原则：通过复制一个已存在的实例来返回新的实例，而不是新建实例;
+  - 使用场景：对象创建成本较高，需要大量资源等，通过复制避免创建对象的消耗
+  - 组成：
+    - 原型类：声明一个克隆接口，能够已自身为原型复制出新的实例
+    - 具体原型类：原型类的实现，封装对象的属性和方法
+    - 客户：创建出具体的实例
+- [x] Typescript
 - [ ] Java
 
 
