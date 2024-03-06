@@ -17,15 +17,11 @@
 - [ ] Java
 
 > 抽象工厂模式 Abstract Factory Pattern
-<<<<<<< Updated upstream
-- [ ] Typescript
-=======
   - 抽象工厂类
   - 具体工厂类：实现抽象工厂的操作，制作出具体的产品
   - 抽象产品类：声明产品的属性和方法
   - 具体产品类：抽象产品的实现类，定义具体工厂所创建的具体产品对象
 - [x] Typescript
->>>>>>> Stashed changes
 - [ ] Java
 
 > 建造者模式 Builder Pattern
